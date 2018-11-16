@@ -11,12 +11,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>Internal Releases</name>
-			<url>http://localhost:8081/repository/ejemplo_rel/</url>
+			<url>http://127.0.0.1:8081/nexus/content/repositories/johndavid/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>Internal Snapshot Releases</name>
-			<url>http://localhost:8081/repository/ejemplo/</url>
+			<url>http://127.0.0.1:8081/nexus/content/repositories/johndavid/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
