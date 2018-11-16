@@ -11,12 +11,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>Internal Releases</name>
-			<url>http://127.0.0.1:8081/nexus/content/repositories/johndavid/</url>
+			<url>http://127.0.0.1:8081/nexus/content/repositories/buscarel/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>Internal Snapshot Releases</name>
-			<url>http://127.0.0.1:8081/nexus/content/repositories/johndavid/</url>
+			<http://127.0.0.1:8081/nexus/content/repositories/buscasnap/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
